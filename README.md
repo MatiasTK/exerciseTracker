@@ -1,3 +1,7 @@
 # Exercise Tracker
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+This project was made to complete freeCodeCamp Back End Development and APIs. It was made using node, mongoDB, mongoose and express.
+
+You can check a [Demo here](https://boilerplate-project-filemetadata.matiastk.repl.co/).
+
+[Link to certification](https://www.freecodecamp.org/certification/MatiasTK/back-end-development-and-apis).
